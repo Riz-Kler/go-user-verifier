@@ -1,8 +1,9 @@
 package verifier
 
 import (
-    "fmt"
-    "github.com/Riz-Kler/go-user-verifier/models"
+	"fmt"
+
+	"github.com/Riz-Kler/go-user-verifier/models"
 )
 
 func VerifyUser(user models.User) (models.User, error) {

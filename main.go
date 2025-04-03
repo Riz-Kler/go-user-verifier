@@ -1,9 +1,10 @@
 package main
 
 import (
-    "fmt"
-    "github.com/yourname/go-user-verifier/models"
-    "github.com/yourname/go-user-verifier/verifier"
+	"fmt"
+
+	"github.com/Riz-Kler/go-user-verifier/models"
+	"github.com/Riz-Kler/go-user-verifier/verifier"
 )
 
 func main() {
